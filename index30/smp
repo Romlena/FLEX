@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="header-logo">
+                <img src="./img/logo header.png" alt="smp">
+            </div>
+            <div class="header-menu">
+                <menu>
+                    <a href="#"><li>Who we are</li></a>
+                    <a href="#"><li>Our vision</li></a>
+                    <a href="#"><li>Our platform</li></a>
+                    <a href="#"><li>SMP in action</li></a>
+                    <a href="#"><li>Follow us</li></a>
+                    <a href="#"><li>Contact us</li></a>
+                </menu>
+            </div>
+        </div>
+    </header>
+    <!-- header finish -->
+    <section class="about">
+        <div class="about-logo">
+            <img src="./img/logo SMP.png" alt="about smp">
+            <h1>INTELLIGENT SCENTS
+                <br>
+                YOUR WAY</h1>
+        </div>
+    </section>
+    <!-- Section about finish -->
+    <section class="info">
+        <div class="info-title">
+            <h2>Who we are</h2>
+            <p>SMP is a technology company on a mission to build the first AI-powered platform for the creation
+                <br>
+                 of personalized dynamic fragrances.
+            </p>
+        </div>
+        <!-- <div class="info-text">
+           
+        </div> -->
+        <div class="info-video">
+            <embed src="https://www.bbc.com/news/av/embed/p06xcr1d/46777702" allowfullscren="true" width="100%" height="527"></embed>
+        </div>
+     </section>
+     <!-- section info finish -->
+     <section class="vision">
+         <div class="vision-title">
+            <h2>Our vision</h2>
+        </div>
+             <div class="vision-info">
+                <p>We aim to make personalized perfume experience accessible to everyone in the world.
+                   <br>
+                   <br>
+                    By seamlessly connecting consumers to fragrance through our platform, we make scent creation more accessible, 
+                    <br>
+                    <br>
+                    opening up more possibilities for consumers and more business opportunities for partners.</p>
+             </div>
+             <div class="vision-picture">
+                <img src="./img/consumer.png" alt="consumer">
+                <img src="./img/arrow left.png" alt="arrow-left">
+                <img src="./img/main icon.png" alt="main-icon">
+                <img src="./img/arrow right.png" alt="arrow-riht">
+                <img src="./img/business.png" alt="business">
+             </div>
+         </section>
+    <!-- section vision finish -->
+            <section class="platform">
+                <div class="platform-title">
+                    <h2>Our platform</h2>
+                </div>
+                <div class="platform-info">
+                    <p>Our patent-pending technology delivers a unique scent experience to customers and niche business opportunities to partners 
+                        <br> by combining Artificial Intelligence, Hardware, Software, and Fragrances. In a nutshell:</p>
+                </div>
+                <div class="platform-picture">
+                    <img src="./img/1.png" alt="1-platform">
+                    <img src="./img/line.png" alt="line">
+                    <img src="./img/2.png" alt="2-platform">
+                    <img src="./img/line.png" alt="line">
+                    <img src="./img/3.png" alt="3-platform">
+                </div>
+                <div class="platform-single">
+                    <div class="single">
+                        <p>Consumer interacts with the scent creation platform by using a network of high-performing diffusers and Apps.</p>
+                    </div>
+                    <div class="single">
+                        <p>Based on consumer’s usage patterns, the Artificial Intelligence at the platform’s core analyzes collected data and outlines consumer’s unique fragrance profile.</p>
+                    </div>
+                    <div class="single">
+                        <p>The diffuser “perfume autopilot” recognizes the perfume preferences of each consumer and autonomously creates personalized, dynamic perfume.</p>
+                    </div>
+                </div>
+     </section>
+    <!-- section platform finish -->
+    <section class="action"> 
+        <div class="action-title">
+            <h2>SMP in action</h2>
+        </div>
+        <div class="action-info">
+        <div class="action-text">
+            <p>Upon the platform, SMP a series of first-of-breed intelligent perfume diffusers.</p>
+            <p>They create custom fragrances based on the deep analysis of consumer's preferences and usage patterns.</p>
+            <p>It combines AI with a set of 5 or 7 fragrance multichannel diffusers to jointly create thousands of unique scent combinations.</p>
+            <p>Learning from consumer interactions with the diffuser through a connected App, it autonomously forecasts the scent combination that matches consumer's personalized fragrance profile.</p>
+            <p>Forget about conventional diffusers that cause smell fatigue, our solution never gets old by assembling personalized fragrances for every consumer.</p>
+            <p>Deep personalization is achieved by AI-powered selection of several cartridges out of 24 basic ones. This allows having millions of unique combinations of cartridges, ensuring a consumer will find theirs.</p>
+            <p>Read more about how we revolutionize scent creation www.sophy.ai</p>
+        </div>
+        <div class="action-info-img">
+            <img src="./img/product new2.png" alt="new-product">
+        </div>
+        </div>
+    </section>
+</body> 
+</html>
